@@ -5,6 +5,9 @@ For starters, machine learning may become overwhelming as this is very complex s
 
 More resources are to be added. Feel free to contribute to the list by sending a pull request.
 
+### Neural Network
+ - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) Explains each sub-part in simplified way.
+
 ### Support Vector Machines
 
  - [A quick look at Support Vector Machines](https://generalabstractnonsense.com/2017/03/A-quick-look-at-Support-Vector-Machines/) Very simplified explaination of SVM
